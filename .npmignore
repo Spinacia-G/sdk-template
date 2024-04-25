@@ -2,19 +2,14 @@
 .idea
 
 node_modules
+public
 packages
 playground
 src
 dist
 
 .env
-.eslintignore
-.eslintrc.cjs
 .gitignore
-.prettierignore
-.prettierrc.cjs
-.stylelintrc.cjs
-.stylintignore
 
 index.html
 pnpm-lock.yaml
